@@ -96,7 +96,7 @@ python infer.py input/ output/
 We are a cross-functional team of machine learning engineers, NLP researchers, full-stack developers, and software architects passionate about document intelligence. Our mission is to make complex document structures easily interpretable by building accurate, scalable, and user-friendly PDF outline extraction systems powered by AI.
 
 
-- [Shivam](https://github.com/myselfshivams)
+- [Shivam](https://github.com/itshivams)
 - [Ritik Gupta](https://github.com/ritikgupta06)
 - [Sanskar Soni](https://github.com/sunscar-sony)
 
