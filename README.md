@@ -1,4 +1,4 @@
-# 📄 PDF Outline Extractor (Hackathon Submission)
+# 📄 PDF Outline Extractor (Adobe Hackathon Challenge-1A)
 
 This project intelligently predicts the **structure of a PDF** (Title, H1–H4) using machine‑learning and robust PDF parsing.
 
