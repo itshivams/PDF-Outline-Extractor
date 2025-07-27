@@ -92,4 +92,18 @@ python infer.py input/ output/
 * **Constraints met** – CPU‑only, offline, AMD64, runtime < 10 s on 50‑page PDF.
 
 ---
+## Our Team
+We are a cross-functional team of machine learning engineers, NLP researchers, full-stack developers, and software architects passionate about document intelligence. Our mission is to make complex document structures easily interpretable by building accurate, scalable, and user-friendly PDF outline extraction systems powered by AI.
 
+
+- [Shivam](https://github.com/myselfshivams)
+- [Ritik Gupta](https://github.com/ritikgupta06)
+- [Sanskar Soni](https://github.com/sunscar-sony)
+
+
+## GitHub Repository
+You can find the complete source code to the project on GitHub:
+[GitHub Repository](https://github.com/itshivams/PDF-Outline-Extractor/)
+
+## Acknowledgment
+Special thanks to Adobe India for organizing this hackathon.
